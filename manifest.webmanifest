@@ -1,0 +1,17 @@
+{
+  "name": "PI-Zeiterfassung",
+  "short_name": "Zeiterfassung",
+  "description": "Arbeitszeit pro Feature, RUN und Sonstiges erfassen und auswerten",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f5f3",
+  "theme_color": "#ffffff",
+  "lang": "de",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
